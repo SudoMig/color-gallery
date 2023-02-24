@@ -1,0 +1,25 @@
+.block {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #ccc;
+}
+
+.label {
+    margin-top: 15px;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+
+.color {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    margin: 10px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
